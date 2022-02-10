@@ -8,3 +8,7 @@ This repository contains Power BI related tools provided by members via their bl
 #### Service Principal connect to PBI.ps1
   1. Basic cmdlt to connect PBI via Service Principal
 
+#### Replicate Trasact db.sql
+  1. SQL script to insert rows into a db to do realtime PBI testing
+  2. https://data-mozart.com/hybrid-tables-in-power-bi-the-ultimate-guide/
+
