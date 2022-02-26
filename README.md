@@ -11,4 +11,9 @@ This repository contains Power BI related tools provided by members via their bl
 #### Replicate Trasact db.sql
   1. SQL script to insert rows into a db to do realtime PBI testing
   2. https://data-mozart.com/hybrid-tables-in-power-bi-the-ultimate-guide/
+  
+#### PowerBI_XmlaBackupDataset.ps1
+  1. PS Script to automate premium dataset to ADLS
+  2. https://data-marc.com/2022/02/21/script-and-automate-power-bi-backup-operations/
+
 
